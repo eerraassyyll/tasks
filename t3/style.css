@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+body {
+    max-width: 800px;
+    margin: 50px auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th, td{
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+.stats {
+    background: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.search {
+    margin: 15px 0;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
