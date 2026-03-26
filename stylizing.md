@@ -16,18 +16,23 @@
 <br><br>
 <img width="872" height="309" alt="image" src="https://github.com/user-attachments/assets/0900eb33-2636-4abb-9144-f01803a8f2c7" />
 <br>
-elem.style.fontSize 
+<code>новое значение будет не 18px, так как тут числовое присваивается к строковому, ответом которого будет 16px2. это будет проигнорирорвано</code>
 <br><br>
 
+<img width="884" height="303" alt="image" src="https://github.com/user-attachments/assets/f20126ed-4235-44d3-ac6e-01524f4339b5" />
 <br>
+parseInt преобразует строку в число, поэтому внутри него нельзя совершить математическое уравнение
+
+<br><br>
+<img width="875" height="290" alt="image" src="https://github.com/user-attachments/assets/97a9ca93-1591-4514-b370-de96d5e725d7" />
+<br>
+ошибок нет
 
 <br><br>
 
+<img width="878" height="257" alt="image" src="https://github.com/user-attachments/assets/7f1aae75-7697-4a53-a660-634b6837281f" />
 <br>
-
-<br><br>
-
-<br>
+<img width="613" height="699" alt="image" src="https://github.com/user-attachments/assets/1af2288e-4473-4b96-9984-9d12d2cf8109" />
 
 <br><br>
 
