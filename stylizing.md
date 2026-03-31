@@ -1,4 +1,4 @@
-<img width="568" height="783" alt="image" src="https://github.com/user-attachments/assets/2f183514-c6c6-4290-aaad-104b6b8ba32e" /><img width="668" height="637" alt="image" src="https://github.com/user-attachments/assets/69139a44-708e-47f9-90da-abdde637d596" /><img width="901" height="155" alt="image" src="https://github.com/user-attachments/assets/9922ce67-ccaa-428f-949b-0d1bcbba8754" />
+<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/d0743ff8-3a09-4060-9c2c-88e06b6a8676" /><img width="568" height="783" alt="image" src="https://github.com/user-attachments/assets/2f183514-c6c6-4290-aaad-104b6b8ba32e" /><img width="668" height="637" alt="image" src="https://github.com/user-attachments/assets/69139a44-708e-47f9-90da-abdde637d596" /><img width="901" height="155" alt="image" src="https://github.com/user-attachments/assets/9922ce67-ccaa-428f-949b-0d1bcbba8754" />
 <br>
 <img width="1274" height="546" alt="image" src="https://github.com/user-attachments/assets/6777e980-1106-448b-913f-d1696527e08e" />
 <br>
@@ -208,6 +208,11 @@ parseInt преобразует строку в число, поэтому вн�
 <img width="1062" height="106" alt="image" src="https://github.com/user-attachments/assets/9c0d26ca-daf7-4372-ac69-6c58502f8888" />
 <br>
 <img width="746" height="816" alt="image" src="https://github.com/user-attachments/assets/089e5ad0-0a95-43f3-a740-2fa6fbb09a18" />
+
+
+
+
+
 <h2>31.03</h2>
 <br><br>
 <img width="1059" height="125" alt="image" src="https://github.com/user-attachments/assets/02175f6b-8df6-45e2-814c-6e6a3b50e735" />
@@ -292,24 +297,28 @@ parseInt преобразует строку в число, поэтому вн�
 <img width="528" height="506" alt="image" src="https://github.com/user-attachments/assets/4d37e4f4-0d37-42c5-805f-9da51d2a2f32" />
 
 <br><br>
+<img width="1090" height="160" alt="image" src="https://github.com/user-attachments/assets/63cb8edf-8f30-499a-8395-2a4f5e75f18f" />
+<br>
+<img width="451" height="540" alt="image" src="https://github.com/user-attachments/assets/64d45014-5a97-4e60-9b94-efe133713ae8" />
 
+<br><br>
+<img width="1085" height="194" alt="image" src="https://github.com/user-attachments/assets/1398c580-1ca5-4e4f-a876-096299f2016f" />
 <br>
 
 <br><br>
-
+<img width="869" height="109" alt="image" src="https://github.com/user-attachments/assets/95ba6462-8e90-4b84-b34e-b606422122d5" />
 <br>
+<img width="237" height="136" alt="image" src="https://github.com/user-attachments/assets/618f29ab-56b0-449b-b18a-68ab6c8af02c" />
 
 <br><br>
-
+<img width="869" height="225" alt="image" src="https://github.com/user-attachments/assets/1f61a535-6b12-4388-bdc6-a085a4a2c794" />
 <br>
+<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/c127db60-1071-49a8-ba7d-48c76713a1ae" />
 
 <br><br>
-
+<img width="880" height="154" alt="image" src="https://github.com/user-attachments/assets/b831c9e9-e4d6-4a62-a521-0ecf0bb6c8cf" />
 <br>
-
-<br><br>
-
-<br>
+<img width="432" height="598" alt="image" src="https://github.com/user-attachments/assets/ff15b98b-d19c-48c5-9194-5dc0fa7c1a9e" />
 
 <br><br>
 
