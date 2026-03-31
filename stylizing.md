@@ -282,12 +282,14 @@ parseInt преобразует строку в число, поэтому вн�
 <img width="271" height="498" alt="image" src="https://github.com/user-attachments/assets/b6631638-e053-4f0a-ba9d-969fa4f917f4" />
 
 <br><br>
-
+<img width="1096" height="133" alt="image" src="https://github.com/user-attachments/assets/576e7fb5-22e7-450e-9988-6c1e0c27ab9e" />
 <br>
+<img width="478" height="528" alt="image" src="https://github.com/user-attachments/assets/7587d43b-cde3-4cdf-8952-a3293336ef64" />
 
 <br><br>
-
+<img width="1075" height="119" alt="image" src="https://github.com/user-attachments/assets/c7cc2dd6-1574-4a0f-97fe-32ed10edac92" />
 <br>
+<img width="528" height="506" alt="image" src="https://github.com/user-attachments/assets/4d37e4f4-0d37-42c5-805f-9da51d2a2f32" />
 
 <br><br>
 
