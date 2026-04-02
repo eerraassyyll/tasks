@@ -385,15 +385,20 @@ parseInt преобразует строку в число, поэтому вн�
 <img width="615" height="398" alt="image" src="https://github.com/user-attachments/assets/4c6708a6-c8df-4ff2-af36-5a009730dbde" />
 
 <br><br>
+<img width="909" height="509" alt="image" src="https://github.com/user-attachments/assets/87a35105-6194-4cc8-9416-3149ea509513" />
+<br>
+<code>
+childNodes: NodeList
+children: HTMLCollection
+getElementsByClassName: HTMLCollection
+</code>
 
+<br><br>
+<img width="866" height="91" alt="image" src="https://github.com/user-attachments/assets/e19cfb5c-40cf-4510-8430-9ffe3fe050fc" />
 <br>
 
 <br><br>
-
-<br>
-
-<br><br>
-
+<img width="856" height="110" alt="image" src="https://github.com/user-attachments/assets/ea58891a-4097-4742-a976-ddac5e3b8f7e" />
 <br>
 
 <br><br>
