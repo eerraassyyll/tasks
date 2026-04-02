@@ -314,7 +314,7 @@ parseInt преобразует строку в число, поэтому вн�
 <img width="869" height="225" alt="image" src="https://github.com/user-attachments/assets/1f61a535-6b12-4388-bdc6-a085a4a2c794" />
 <br>
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/c127db60-1071-49a8-ba7d-48c76713a1ae" />
-
+<h2>02.04</h2>
 <br><br>
 <img width="880" height="154" alt="image" src="https://github.com/user-attachments/assets/b831c9e9-e4d6-4a62-a521-0ecf0bb6c8cf" />
 <br>
